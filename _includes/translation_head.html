@@ -1,0 +1,22 @@
+<p class="post-date text-bold text-upcase">
+  {% if page.author %}
+    <span class="text-bold">{{ page.author }}</span> / 
+  {% endif %}
+  {% if page.date %}
+    <span>{{ page.date | date: "%B %Y"}}</span>
+  {% endif %}
+</p>
+
+<p class="translation-head">
+    {% if page.original-author %}
+        <span> المألف الأصلي: {{ page.original-author }}</span> <br>
+    {% endif %}
+
+    {% if page.original-article %}
+        <span>المقال الأصلي: {{ page.original-article }}</span> <br>
+    {% endif %}
+
+    {% if page.tags.size > 0 %}
+        <span>العلامات: {{ page.tags | join ", " }}<span> <br>
+    {% endif %}
+</p>
