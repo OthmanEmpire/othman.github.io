@@ -7,12 +7,12 @@
       {{ item.title }}
     {% endif %}
 
-    {% if item.post_list == true %}
-      {% include post_list.html %}
+    {% if item.list_post == true %}
+      {% include list_post.html %}
     {% endif %}
 
     {% if item.entries %}
-      {% include vertical_list.html collection=item.entries %}
+      {% include list_vertical.html collection=item.entries %}
     {% endif %}
     </li>
   {% endfor %}

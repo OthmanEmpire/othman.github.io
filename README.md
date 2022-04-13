@@ -60,7 +60,7 @@ The `home.yml` file accepts the following fields:
   - each entry has the following attributes:
     - `title`, which defines the text to render for that menu entry
     - `url`, which can either be a URL or `false`. If it is `false`, the entry will be rendered as plain text; otherwise the entry will be rendered as a link pointing to the specified URL. Note that the URL can either be relative or absolute.
-    - `post_list`, which can be `true` or `false`. If it is true, the entry will have all posts in the site as subentries. This is used to render your post list.
+    - `list_post`, which can be `true` or `false`. If it is true, the entry will have all posts in the site as subentries. This is used to render your post list.
     - `entries`, yes, you can have entries inside entries. In this way you can create nested sublists!
 2. Card list - cards are used to showcase portfolio projects. Please see `project_entries` in `_data/home.yml` file
   - each entry is marked by a `-` at the beginning of the line

@@ -1,8 +1,10 @@
 title: OthmanEmpire Translations
 author: Othman Alikhan
 url: https://othman.github.io # root address of the site
-description: > # description of the site (multiple lines allowed)
-  A bunch of Arabic to English translations of technical articles: cyber security, and otherwise.
+description: >
+  Arabic to English translations of various technical IT articles.
+  The content includes cyber security, devops, and other areas of my interest.
+
 
 permalink: /:slug
 
@@ -24,17 +26,23 @@ theme_config:
   show_navbar: true # show horizontal navbar
   show_footer: true # show footer links in home page,add in _data/home.yml
   show_copyright: true # show copyright notice in footer
-  # following keys are using to create home layout
-  show_projects: true # show projects as cards, add in _data/home.yml
-  show_blog: true # show blog posts added in _posts
-  show_old_projects: false # show old projects as cards, add in _data/home.yml
-  show_misc_list: false # show generic vertical list for misc details, add _data/home.yml
-  # options for "home" page
-  home:
-    title_projects: Translations
-    title_blog: Blog
-    title_old_projects: Old Projects
-    title_misc_list: Details
+
+navbar_entries:
+  - title: about
+    url: about
+
+  - title: blog
+    url: blog
+
+footer_entries:
+  - title: twitter
+    url: https://twitter.com/AlikhanOthman
+
+  - title: github
+    url: https://github.com/OthmanEmpire
+
+  - title: feed
+    url: feed.xml
 
 soopr:
   publish_token: "" # sign up at https://www.soopr.co to get your publish token and personalize share and reaction options

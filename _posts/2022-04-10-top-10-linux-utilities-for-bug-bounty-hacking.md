@@ -1,8 +1,18 @@
 ---
-layout: post
+layout: translation
 author: Othman Alikhan
 published: true
 lang: ar
+title-ar: أفضل 10 أدوات Linux لاختراق/مكافأة العلة
+title-en: Top 10 Linux Utilities For Bug Bounty/Hacking
+thumbnail: 'https://miro.medium.com/max/1400/0*N_Aq04ySgNGbgFZE'
+original-author: Samrat Gupta (Sm4rty)
+original-article: >-
+  https://sm4rty.medium.com/top-10-linux-utilities-for-bugbounty-hacking-dbef7ae28a28
+category: translation
+tags:
+  - security
+  - medium
 ---
 
 Lorem ipsum[^1] dolor sit amet, consectetur adipiscing elit. Pellentesque vel lacinia neque. Praesent nulla quam, ullamcorper in sollicitudin ac, molestie sed justo. Cras aliquam, sapien id consectetur accumsan, augue magna faucibus ex, ut ultricies turpis tortor vel ante. In at rutrum tellus.

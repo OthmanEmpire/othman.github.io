@@ -1,0 +1,11 @@
+<ul class="horizontal-list">
+    {% for post in site.posts %}
+        {% if post.layout == "translation" %}
+            <li class="card">
+                <a href="{{ post.url | relative_url }}" class="header" dir="rtl">{{ post.title-ar }}</a>
+                <hr />
+                <p class="body">{{ post.title-en }}</p>
+            </li>
+        {% endif %}
+    {% endfor %}
+</ul>
