@@ -30,17 +30,14 @@ theme_config:
 navbar_entries:
   - title: about
     url: about
-
-  - title: blog
-    url: blog
+#  - title: posts
+#    url: blog
 
 footer_entries:
   - title: twitter
     url: https://twitter.com/AlikhanOthman
-
   - title: github
     url: https://github.com/OthmanEmpire
-
   - title: feed
     url: feed.xml
 

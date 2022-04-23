@@ -14,39 +14,50 @@ tags:
   - medium
 ---
 
-<p align="center">
-  <img src="https://miro.medium.com/max/1400/0*N_Aq04ySgNGbgFZE" width="600px"/>
-</p>
+![computer](https://miro.medium.com/max/1400/0*N_Aq04ySgNGbgFZE)
+
+## جدول المحتويات
+
+- [المقدمة](#المقدمة)
+- [1. الأمر "grep"](#grep)
+- [2. الأمر "sed"](#sed)
 
 
-مرحبًا ,أنا سامرات جوبتا المعروف أيضًا باسم (سمارتي), باحث أمني وصياد مكافأة
+#### المقدمة
+
+مرحبًا ,أنا سامرات جوبتا المعروف أيضًا باسم (سمارتي), باحث أمني وصياد مكافأة
 العلة. في هذا المدونة سأشارك بعض الأدوات الشائعة في Linux OS التي يمكن يكون
 مفيدة في الاختراق/المكافأة العلة أو في أي أستخدام عام وستوفر وقت كثير بالتأكيد.
 
-سنبدأ بدون إضاعة أي وقت أكثر
-
-<h2 lang="en" dir="ltr">1. GREP:</h2>
-
-يبحث مرشح grep في
-
-## Blockquote
+سنبدأ بدون إضاعة أي وقت أكثر.
 
 
-مرحبًا ,أنا سامرات جوبتا المعروف أيضًا باسم (سمارتي), باحث أمني وصياد مكافأة العلة. في هذا المدونة سأشارك بعض الأدوات الشائعة في Linux OS التي يمكن يكون مفيدة في الاختراق/المكافأة العلة أو في أي أستخدام عام وستوفر وقت كثير بالتأكيد.
+<h3 id="grep" lang="en" dir="ltr">1. GREP:</h3>
 
-سنبدأ بدون إضاعة أي وقت أكثر
+يبحث مرشح grep في ملف عن نمط معين من الأحرف, ويعرض كل الأسطر التي
+تحتوي على هذا النمط. النمط المبحث في الملف يشار بالاسم regular expression.
 
+يحتوي grep على العديد من حالات الاستخدام العملية وهو بالتأكيد أحد
+أوامر Linux المستخدم بالكثير.
 
-> Suspendisse tempus dolor nec risus sodales posuere. Proin dui dui, mollis a consectetur molestie, lobortis vitae tellus.
+بناء جملة لأمر grep:
 
+<blockquote lang="en" dir="ltr">
+grep [options] pattern [files]
+</blockquote>
 
-## Images
+#### ماذا يمكننا أن نفعل مع grep؟
 
-![theme logo](http://www.abhinavsaxena.com/images/abhinav.jpeg)
+1. البحث عن نص في ملفات.
+2. البحث عن أسماء ملفات باستخدام الامتدادات.
+3. البحث عن نمط في ملفات مضغوطة.
+4. البحث عن URLs في ملفات المصدر.
+5. البحث في جميع الملفات في مجلد ومجلداته الفرعية.
 
-This is an image[^4]
+#### قراءة المزيد
 
----
-{: data-content="footnotes"}
-
-[^1]: this is a footnote. You should reach here if you click on the corresponding superscript number.
+<div lang="en" dir="ltr">
+1. https://www.makeuseof.com/grep-command-practical-examples/<br>
+2. https://www.geeksforgeeks.org/grep-command-in-unixlinux/<br>
+3. https://phoenixnap.com/kb/grep-command-linux-unix-examples
+</div>
