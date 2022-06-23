@@ -3,8 +3,8 @@ layout: translation
 author: Othman Alikhan
 published: true
 lang: ar
-title-ar: أفضل 10 أدوات Linux لاختراق/مكافأة العلة
-title-en: Top 10 Linux Utilities For Bug Bounty/Hacking
+title-ar: أفضل 10 أدوات Linux لاختراق/مكافأة العلة (غير متكمل)
+title-en: Top 10 Linux Utilities For Bug Bounty/Hacking (INCOMPLETE)
 original-author: Samrat Gupta (Sm4rty)
 original-article: >-
   https://sm4rty.medium.com/top-10-linux-utilities-for-bugbounty-hacking-dbef7ae28a28
@@ -91,11 +91,11 @@ sed [options] [script] [inputfile]
 
 <h3 id="grep" lang="en" dir="ltr">3. AWK:</h3>
 
-ل AWK لغة برمجة نصية تستخدم في معالجة البيانات وإنشاء تقارير.
- لغة البرمجة للأمر awk لا يحتاج إلى مترجم ويسمح للمستخدم باستخدام المتغيرات,
- الدالات الرقمية, الدالات السلسلة, والعوامل المنطقية. 
+‏AWK لغة برمجة نصية تستخدم في معالجة البيانات وإنشاء تقارير.
+لغة البرمجة للأمر awk لا يحتاج إلى مترجم ويسمح للمستخدم باستخدام المتغيرات, 
+الدالات الرقمية, الدالات السلسلة, والعوامل المنطقية. 
 
-
+‏AWK هي أداة مساعدة يساعد المبرمج على كتابة برمجات صغيرة ولكن مفيدة. 
 
 ---
 {: data-content="footnotes"}
