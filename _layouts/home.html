@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: base
 ---
 
 <header>
@@ -14,20 +14,39 @@ layout: default
     {% endif %}
 </header>
 
+
 {{ content }}
 
-<!-- TRANSLATIONS -->
-{% if site.categories["translation"].size > 0 %}
-    <h2>Translations</h2>
-    {% include list_translation.html %}
-{% endif %}
 
-<!-- POSTS -->
-{% assign notTranslation = site.posts.size | minus: site.categories["translation"].size %}
-{% if notTranslation > 0 %}
-    <h2>Posts</h2>
-    {% include list_post.html %}
-{% endif %}
+<h2>Translations</h2>
+<ul class="horizontal-list">
+{% for post in site.posts %}
+    {% if post.category == "translation" %}
+        {% include translation.html %}
+    {% endif %}
+{% endfor %}
+</ul>
+
+
+<h2>Sysadmin</h2>
+<ul class="horizontal-list">
+{% for post in site.posts %}
+    {% if post.category == "sysadmin" %}
+        {% include card.html %}
+    {% endif %}
+{% endfor %}
+</ul>
+
+
+<h2>Posts</h2>
+<ul class="horizontal-list">
+{% for post in site.posts %}
+    {% if post.layout != "translation" %}
+        {% include post.html %}
+    {% endif %}
+{% endfor %}
+</ul>
+
 
 <!-- FOOTER -->
 {% if site.theme_config.show_footer == true %}

@@ -1,0 +1,13 @@
+<li class="card">
+    <a href="{{ post.url }}">
+        <span class="header">
+            {{ post.title }}
+        </span>
+
+        <hr />
+
+        <p class="body">
+        {{ post.date | date: "%B %Y"}}
+        </p>
+    </a>
+</li>
