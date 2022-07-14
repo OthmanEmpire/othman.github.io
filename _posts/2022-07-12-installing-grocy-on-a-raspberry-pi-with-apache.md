@@ -13,8 +13,13 @@ tags:
 
 ## Overview
 
-Below are my notes to install Grocy on a Raspberry Pi 3. This article was inspired by 
-*https://peppe8o.com/manage-your-home-stocks-like-a-pro-with-grocy-and-raspberry-pi/*
+We will be installing the latest release of Grocy (as of this article v3.3.1) on a 
+Raspberry Pi 3 (running Rasperry Pi OS [Debian 11]).
+
+The setup involves installing the backend PHP dependencies, the frontend javascript 
+dependencies, and configuring an Apache server.
+
+This article was inspired by *https://peppe8o.com/manage-your-home-stocks-like-a-pro-with-grocy-and-raspberry-pi/*
 
 ## Installing Backend Components
 
