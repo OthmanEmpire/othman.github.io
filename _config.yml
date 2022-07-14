@@ -52,3 +52,5 @@ sass:
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+
+google_analytics: G-DT1F8NTN97

@@ -20,4 +20,7 @@
     {% include toggle_theme_js.html %}
   {% endif %}
 
+  {% if site.google_analytics and jekyll.environment == 'production' %}
+      {% include analytics.html %}
+  {% endif %}
 </head>
