@@ -10,6 +10,10 @@ tags:
   - homeautomation
 ---
 
+## Table of Content
+
+* TOC
+{:toc}
 
 ## Overview
 
