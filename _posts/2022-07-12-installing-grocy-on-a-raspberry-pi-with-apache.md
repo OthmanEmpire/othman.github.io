@@ -87,9 +87,12 @@ This article was inspired by *https://peppe8o.com/manage-your-home-stocks-like-a
         ```
 
     - 6.2. For each error, install the relevant library manually. So for the
-      error above, `sudo apt install php8.0-simplexml`. Otherwise, just install these 
+      error above, `sudo apt install php8.0-simplexml`. 
+
+    - 6.3. Otherwise, you can use the following command which should install pretty much everything needed 
+      (**though this might have missing libraries in future grocy releases! So if you see errors, go back to bullet 6.2.**)
       ```
-      sudo apt install php8.0-gd php8.0-simplexml php8.0-intl
+      sudo apt install php8.0-gd php8.0-simplexml php8.0-intl php8.0-mbstring php8.0-pdo_sqlite
       ```
 
     *QA: Re-run `php composer.phar install` and you should see no errors.*
@@ -101,7 +104,7 @@ This article was inspired by *https://peppe8o.com/manage-your-home-stocks-like-a
 1. Install `yarn` to download frontend dependencies (install yarn via npm since the apt package 
    is a different tool altogether).
    ```
-    sudo apt install npm
+    sudo apt install npm            # Require npm to install yarn
     sudo npm install -g yarn
    ```
 
@@ -139,16 +142,21 @@ This article was inspired by *https://peppe8o.com/manage-your-home-stocks-like-a
     ```
 
 4. Create an Apache config file for the grocy webapp.
-    ```
-    cd /etc/apache2/sites-available/
-    sudo cp 000-default.conf grocy.conf
-    sudo vi grocy.conf
+    - 4.1. Copy an existing Apache config file.
+        ```
+        cd /etc/apache2/sites-available/
+        sudo cp 000-default.conf grocy.conf
+        ```
 
-    ...
-    ServerName <IP>                             # Change to your (static) IP
-    DocumentRoot /var/www/grocy/public          # Ensure no trailing slash!
-    ...
-    ```
+    - 4.2. In your new copy, add a `ServerName` entry, and modify the `DocumentRoot` entry.
+        ```
+        sudo vi grocy.conf
+
+        ...
+        ServerName <YOUR_STATIC_IP>                 # You will need to add this entry!
+        DocumentRoot /var/www/grocy/public          # Ensure no trailing slash!
+        ...
+        ```
 
 5. Check for syntax errors
     ```
@@ -165,6 +173,5 @@ This article was inspired by *https://peppe8o.com/manage-your-home-stocks-like-a
     sudo a2dissite 000-default.conf             # Disables the unused default Apache page
     sudo systemctl restart apache2
     ```
-
 
 7. Finally, navigate to `http://<YOUR_IP>` to use your deployed grocy webapp.
