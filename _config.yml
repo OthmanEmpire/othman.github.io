@@ -1,14 +1,9 @@
-title: Othman Alikhan Homepage
 author: Othman Alikhan
-url: https://othman.github.io # root address of the site
-description: >
-  Arabic to English translations of various technical IT articles.
-  The content includes cyber security, devops, and other areas of my interest.
-
+url: https://othmanalikhan.github.io # root address of the site
 
 permalink: /:slug
 
-favicon: "./logo.png" # relative path to site's favicon
+favicon: "favicon.ico"
 
 twitter:
     username: AlikhanOthman
@@ -28,17 +23,25 @@ theme_config:
   show_copyright: true # show copyright notice in footer
 
 navbar_entries:
-  - title: about
+  - title: Home
+    url: /
+  - title: Portfolio
+    url: portfolio
+  - title: Articles
+    url: articles
+  - title: About
     url: about
-#  - title: posts
-#    url: blog
+  - title: Contact
+    url: contact
 
 footer_entries:
-  - title: twitter
-    url: https://twitter.com/AlikhanOthman
-  - title: github
-    url: https://github.com/OthmanEmpire
-  - title: feed
+  - title: Linkedin
+    url: https://www.linkedin.com/in/othmanalikhan
+  - title: Github
+    url: https://github.com/OthmanAlikhan
+  - title: Upwork
+    url: https://www.upwork.com/freelancers/~013852999aef755af1
+  - title: Feed
     url: feed.xml
 
 soopr:

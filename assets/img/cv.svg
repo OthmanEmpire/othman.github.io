@@ -1,0 +1,1653 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="2021-07_cybersecurity.svg"
+   inkscape:export-filename="2021-07_cybersecurity.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
+  <defs
+     id="defs2">
+    <rect
+       x="63.243744"
+       y="101.46299"
+       width="42.31416"
+       height="34.579313"
+       id="rect1251" />
+    <rect
+       style="fill:none;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567"
+       id="rect22-1"
+       width="200.42352"
+       height="21.612072"
+       x="5.9148827"
+       y="42.08667" />
+    <rect
+       style="fill:none;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567"
+       id="rect212-1"
+       width="92.59066"
+       height="41.176682"
+       x="5.667408"
+       y="112.95843" />
+    <rect
+       style="fill:none;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567"
+       id="rect241-3"
+       width="92.59066"
+       height="41.176682"
+       x="115.36914"
+       y="248.02353" />
+    <rect
+       style="fill:none;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567"
+       id="rect212-3"
+       width="104.81629"
+       height="150.2422"
+       x="4.0587726"
+       y="140.94867" />
+    <rect
+       style="fill:none;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567"
+       id="rect921-0"
+       width="101.85885"
+       height="34.677841"
+       x="4.2676182"
+       y="103.20235" />
+    <rect
+       style="fill:none;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567"
+       id="rect921-0-2"
+       width="101.85885"
+       height="34.677841"
+       x="4.2676182"
+       y="103.20235" />
+    <rect
+       style="fill:none;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567"
+       id="rect1923"
+       width="101.85885"
+       height="34.677841"
+       x="4.2676182"
+       y="103.20235" />
+    <rect
+       style="fill:none;fill-opacity:0.94902;stroke:#000000;stroke-width:0.299999;stroke-dashoffset:2.64567"
+       id="rect921-7"
+       width="101.85885"
+       height="20.416027"
+       x="4.2676182"
+       y="113.01504" />
+    <rect
+       style="fill:none;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567"
+       id="rect921-0-9"
+       width="101.85885"
+       height="34.677841"
+       x="4.2676182"
+       y="103.20235" />
+    <rect
+       style="fill:none;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567"
+       id="rect251"
+       width="101.85885"
+       height="34.677841"
+       x="4.2676182"
+       y="103.20235" />
+    <rect
+       style="fill:none;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567"
+       id="rect212-6"
+       width="104.81629"
+       height="104.4387"
+       x="-147.30621"
+       y="192.93156" />
+    <rect
+       style="fill:none;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567"
+       id="rect212-6-4"
+       width="104.81629"
+       height="104.4387"
+       x="-147.30621"
+       y="192.93156" />
+    <rect
+       style="fill:none;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567"
+       id="rect658"
+       width="104.81629"
+       height="104.4387"
+       x="-147.30621"
+       y="192.93156" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.92029709"
+     inkscape:cx="220.3543"
+     inkscape:cy="308.22117"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1850"
+     inkscape:window-height="1057"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:bbox-paths="false"
+     inkscape:snap-bbox-edge-midpoints="false"
+     inkscape:snap-bbox-midpoints="false"
+     inkscape:snap-text-baseline="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1321"
+       spacingx="1.4552083"
+       spacingy="1.4552083" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Background"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:#ffffff;fill-opacity:0.94902;stroke:none;stroke-width:0.3;stroke-dashoffset:2.64567;stroke-opacity:0.94902"
+       id="rect287"
+       width="210.85521"
+       height="298.16769"
+       x="0"
+       y="0" />
+  </g>
+  <g
+     inkscape:label="CV"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1;font-family:Nunito;-inkscape-font-specification:Nunito;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="7.284133"
+       y="189.85173"
+       id="text897"><tspan
+         sodipodi:role="line"
+         id="tspan921"
+         x="7.284133"
+         y="189.85173"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Nunito;-inkscape-font-specification:Nunito">• Coded a proof-of-concept JAR ransomware to validate endpoint </tspan><tspan
+         sodipodi:role="line"
+         x="7.284133"
+         y="193.37952"
+         id="tspan1715"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Nunito;-inkscape-font-specification:Nunito">malware detection against the rise of ransomware in 2020.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1;font-family:Nunito;-inkscape-font-specification:Nunito;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="7.2559109"
+       y="201.98981"
+       id="text901"><tspan
+         sodipodi:role="line"
+         id="tspan943"
+         x="7.2559109"
+         y="201.98981"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Nunito;-inkscape-font-specification:Nunito">• Coded a 2FA phishing website to emulate a particular APT </tspan><tspan
+         sodipodi:role="line"
+         id="tspan945"
+         x="7.2559109"
+         y="205.51759"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Nunito;-inkscape-font-specification:Nunito">adversary as part of a department wide cyber drill.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1;font-family:Nunito;-inkscape-font-specification:Nunito;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="7.2559109"
+       y="214.11729"
+       id="text905"><tspan
+         sodipodi:role="line"
+         id="tspan958"
+         x="7.2559109"
+         y="214.11729"><tspan
+           id="tspan903"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Nunito;-inkscape-font-specification:Nunito">• Performed purple team exercises involving brute forcing </tspan></tspan><tspan
+         sodipodi:role="line"
+         id="tspan960"
+         x="7.2559109"
+         y="217.64508"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Nunito;-inkscape-font-specification:Nunito"
+           id="tspan962">and password spraying services.</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1;font-family:Nunito;-inkscape-font-specification:Nunito;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="7.284133"
+       y="262.65903"
+       id="text1050"><tspan
+         sodipodi:role="line"
+         x="7.284133"
+         y="262.65903"
+         id="tspan1882">• Officially mentored 3 interns for 2 months each to code tools </tspan><tspan
+         sodipodi:role="line"
+         x="7.284133"
+         y="266.1868"
+         id="tspan1501">that optimise operations (e.g. a system health dashboard).</tspan><tspan
+         sodipodi:role="line"
+         x="7.284133"
+         y="269.7146"
+         id="tspan1499" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1;font-family:Nunito;-inkscape-font-specification:Nunito;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="7.4358277"
+       y="230.80095"
+       id="text20-3-9-0"><tspan
+         sodipodi:role="line"
+         id="tspan972"
+         x="7.4358277"
+         y="233.41574" /><tspan
+         sodipodi:role="line"
+         x="7.4358277"
+         y="236.94353"
+         id="tspan976">• Coded a firewall parser and analyser based on algebriac </tspan><tspan
+         sodipodi:role="line"
+         x="7.4358277"
+         y="240.47131"
+         id="tspan1541">factorisation and graph theory. More than 100 unnecessary f</tspan><tspan
+         sodipodi:role="line"
+         x="7.4358277"
+         y="243.99908"
+         id="tspan1549">irewall ACLs were discovered.</tspan><tspan
+         sodipodi:role="line"
+         x="7.4358277"
+         y="247.52687"
+         id="tspan1543" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1;font-family:Nunito;-inkscape-font-specification:Nunito;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="7.4569945"
+       y="172.42554"
+       id="text889-6"><tspan
+         sodipodi:role="line"
+         id="tspan914-3"
+         x="7.4569945"
+         y="175.95331"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Nunito;-inkscape-font-specification:Nunito;stroke-width:0.264583">
+• Discovered a critical vulnerability affecting more than 30,000 </tspan><tspan
+         sodipodi:role="line"
+         x="7.4569945"
+         y="179.48108"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Nunito;-inkscape-font-specification:Nunito;stroke-width:0.264583"
+         id="tspan1347">laptops in the company as part of a red team assessment. This </tspan><tspan
+         sodipodi:role="line"
+         x="7.4569945"
+         y="183.00885"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Nunito;-inkscape-font-specification:Nunito;stroke-width:0.264583"
+         id="tspan1579">vulnerability was subsequently investigated and patched.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1;font-family:Nunito;-inkscape-font-specification:Nunito;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="7.1606617"
+       y="254.5399"
+       id="text1040-5"><tspan
+         sodipodi:role="line"
+         x="7.1606617"
+         y="257.15469"
+         id="tspan1038-6"
+         style="stroke-width:0.264583" /><tspan
+         sodipodi:role="line"
+         x="7.1606617"
+         y="260.68246"
+         id="tspan1066-7"
+         style="stroke-width:0.264583" /><tspan
+         sodipodi:role="line"
+         x="7.1606617"
+         y="264.21024"
+         id="tspan1068-5"
+         style="stroke-width:0.264583" /><tspan
+         sodipodi:role="line"
+         x="7.1606617"
+         y="267.73801"
+         id="tspan1070-3"
+         style="stroke-width:0.264583" /><tspan
+         sodipodi:role="line"
+         x="7.1606617"
+         y="271.26578"
+         id="tspan1072-1"
+         style="stroke-width:0.264583" /><tspan
+         sodipodi:role="line"
+         x="7.1606617"
+         y="274.79355"
+         id="tspan1076-4"
+         style="stroke-width:0.264583">• As vice-chairman, lead the annual committee that hosts an </tspan><tspan
+         sodipodi:role="line"
+         x="7.1606617"
+         y="278.32132"
+         id="tspan1080-3"
+         style="stroke-width:0.264583">IT event for all newly hired IT employees across the company.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="5.4844613"
+       y="21.732874"
+       id="text12"><tspan
+         sodipodi:role="line"
+         id="tspan10"
+         x="5.4844613"
+         y="21.732874"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Nunito;-inkscape-font-specification:Nunito;stroke-width:0.264583">Othman Alikhan</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#0088aa;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="6.3579369"
+       y="29.104166"
+       id="text16"><tspan
+         sodipodi:role="line"
+         id="tspan14"
+         x="6.3579369"
+         y="29.104166"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#0088aa;stroke-width:0.264583">Cyber Security Specialist Position</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="111.74508"
+       y="8.5920248"
+       id="text26"><tspan
+         sodipodi:role="line"
+         id="tspan24"
+         x="111.74508"
+         y="8.5920248"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Nunito;-inkscape-font-specification:Nunito;stroke-width:0.264583">https://www.linkedin.com/in/othmanalikhan</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="129.82982"
+       y="16.591917"
+       id="text26-4"><tspan
+         sodipodi:role="line"
+         id="tspan24-1"
+         x="129.82982"
+         y="16.591917"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Nunito;-inkscape-font-specification:Nunito;stroke-width:0.264583">https://github.com/OthmanEmpire</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="150.91589"
+       y="32.535252"
+       id="text26-3"><tspan
+         sodipodi:role="line"
+         id="tspan24-2"
+         x="150.91589"
+         y="32.535252"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Nunito;-inkscape-font-specification:Nunito;stroke-width:0.264583">+966 (0) 55 319 9044</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="151.44507"
+       y="24.52492"
+       id="text26-8"><tspan
+         sodipodi:role="line"
+         id="tspan24-29"
+         x="151.44507"
+         y="24.52492"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Nunito;-inkscape-font-specification:Nunito;stroke-width:0.264583">oz.alikhan@gmail.com</tspan></text>
+    <path
+       fill-rule="evenodd"
+       clip-rule="evenodd"
+       d="m 202.27418,11.995179 c -1.93416,0 -3.50074,1.566578 -3.50074,3.500731 0,1.549074 1.00209,2.857472 2.39362,3.321318 0.17504,0.03063 0.24067,-0.07439 0.24067,-0.166284 0,-0.08314 -0.005,-0.358824 -0.005,-0.65201 -0.87956,0.161908 -1.10709,-0.214421 -1.17712,-0.411337 -0.0394,-0.100645 -0.21003,-0.411336 -0.35882,-0.494479 -0.12252,-0.06563 -0.29757,-0.227547 -0.005,-0.231923 0.27568,-0.0044 0.4726,0.253803 0.53823,0.358824 0.31507,0.529486 0.81831,0.380706 1.0196,0.288811 0.0306,-0.227547 0.12252,-0.380703 0.22316,-0.468222 -0.77892,-0.08752 -1.59283,-0.389457 -1.59283,-1.728485 0,-0.380705 0.13566,-0.695771 0.35883,-0.940822 -0.0351,-0.08752 -0.15753,-0.446344 0.0351,-0.927694 0,0 0.29318,-0.09189 0.9627,0.358825 0.28005,-0.07877 0.57761,-0.11815 0.87518,-0.11815 0.29757,0 0.59512,0.03939 0.87518,0.11815 0.66952,-0.455096 0.9627,-0.358825 0.9627,-0.358825 0.19255,0.48135 0.07,0.840175 0.0351,0.927694 0.22318,0.245051 0.35881,0.55574 0.35881,0.940822 0,1.343404 -0.81828,1.640967 -1.59719,1.728485 0.1269,0.109399 0.23629,0.319442 0.23629,0.647635 0,0.468222 -0.005,0.844551 -0.005,0.962701 0,0.09189 0.0657,0.201293 0.24068,0.166284 1.38278,-0.463846 2.38487,-1.77662 2.38487,-3.321318 0,-1.934153 -1.56657,-3.500731 -3.50073,-3.500731 z"
+       fill="#1b1f23"
+       id="path2"
+       style="stroke-width:16.9333" />
+    <path
+       d="m 202.27332,3.9054193 c -1.93288,0 -3.5,1.567126 -3.5,3.5000029 0,1.9328776 1.56712,3.5000038 3.5,3.5000038 1.93287,0 3.5,-1.5671262 3.5,-3.5000038 0,-1.9328769 -1.56713,-3.5000029 -3.5,-3.5000029 z m -0.58334,4.666671 h -0.58333 V 6.8220886 h 0.58333 z M 201.39832,6.562214 c -0.17705,0 -0.32084,-0.144667 -0.32084,-0.3234584 0,-0.1785002 0.1435,-0.3234584 0.32084,-0.3234584 0.17733,0 0.32083,0.1449582 0.32083,0.3234584 0,0.1787914 -0.14379,0.3234584 -0.32083,0.3234584 z m 2.33333,2.0098763 h -0.58276 V 7.7376307 c 0,-0.5486249 -0.5839,-0.5022498 -0.5839,0 v 0.8344596 h -0.58334 V 6.8220886 h 0.58334 v 0.3187922 c 0.25433,-0.4713336 1.16666,-0.5063336 1.16666,0.4515004 z"
+       id="path2-8"
+       style="stroke-width:0.264583" />
+    <path
+       d="m 202.27333,19.91367 a 3.5,3.5 0 1 0 3.49999,3.5 3.5,3.5 0 0 0 -3.49999,-3.5 z m 1.56449,2.289 -1.56449,1.3034 -1.56451,-1.3034 z m 0.1855,2.2715 a 0.13999999,0.13999999 0 0 1 -0.15189,0.1505 h -3.19621 a 0.13579999,0.13579999 0 0 1 -0.15189,-0.14 v -2.0552 c 0,-0.007 0,-0.0133 0,-0.0294 l 0.34999,0.2898 1.302,1.085001 a 0.13509999,0.13509999 0 0 0 0.1967,0 l 1.6023,-1.3356 0.0489,-0.0378 c 0,0.0175 0,0.0287 0,0.0413 v 2.029999 z"
+       id="path4"
+       style="stroke-width:0.264583" />
+    <g
+       id="g10"
+       transform="matrix(0.07142857,0,0,0.07142857,198.70189,27.917794)"
+       style="stroke-width:3.70417">
+      <path
+         d="M 50,0 C 22.9,0 1,21.9 1,49 1,76.1 22.9,98 50,98 77.1,98 99,76 99,49 99,22 77.1,0 50,0 Z m 16.4,78.2 c 0,2.2 -1.8,3.9 -3.9,3.9 h -25 c -2.2,0 -3.9,-1.8 -3.9,-3.9 V 21.5 c 0,-2.2 1.8,-3.9 3.9,-3.9 h 25 c 2.2,0 3.9,1.8 3.9,3.9 z"
+         id="path2-6"
+         style="stroke-width:3.70417" />
+      <rect
+         x="35.900002"
+         y="25.9"
+         width="28.299999"
+         height="45.5"
+         id="rect4"
+         style="stroke-width:3.70417" />
+      <circle
+         cx="50"
+         cy="77.199997"
+         r="2.7"
+         id="circle6"
+         style="stroke-width:3.70417" />
+      <path
+         d="m 44.3,22.7 h 11.3 c 0.4,0 0.7,-0.3 0.7,-0.7 0,-0.4 -0.3,-0.7 -0.7,-0.7 H 44.3 c -0.4,0 -0.7,0.3 -0.7,0.7 0.1,0.4 0.4,0.7 0.7,0.7 z"
+         id="path8"
+         style="stroke-width:3.70417" />
+    </g>
+    <path
+       style="fill:#0088aa;fill-opacity:1;stroke:#0088aa;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 0,67.204168 H 211.00521"
+       id="path108" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#0088aa;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="6.9259772"
+       y="79.95179"
+       id="text12-1"><tspan
+         sodipodi:role="line"
+         id="tspan10-3"
+         x="6.9259772"
+         y="79.95179"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#0088aa;stroke-width:0.264583">Work Experience</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#0088aa;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="123.18732"
+       y="80.390976"
+       id="text12-1-4"><tspan
+         sodipodi:role="line"
+         id="tspan10-3-2"
+         x="123.18732"
+         y="80.390976"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#0088aa;stroke-width:0.264583">Skills</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#0088aa;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="122.86004"
+       y="264.4985"
+       id="text12-1-4-8"><tspan
+         sodipodi:role="line"
+         id="tspan10-3-2-3"
+         x="122.86004"
+         y="264.4985"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#0088aa;stroke-width:0.264583">Education</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="123.35509"
+       y="96.537979"
+       id="text16-9-8"><tspan
+         sodipodi:role="line"
+         id="tspan14-8-7"
+         x="123.35509"
+         y="96.537979"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:Nunito;-inkscape-font-specification:Nunito;stroke-width:0.264583">Kali Linux</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="123.35509"
+       y="103.81406"
+       id="text16-9-8-6-4"><tspan
+         sodipodi:role="line"
+         id="tspan14-8-7-5-8"
+         x="123.35509"
+         y="103.81406"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:Nunito;-inkscape-font-specification:Nunito;stroke-width:0.264583">NMap</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="123.31185"
+       y="89.202461"
+       id="text16-9-8-6-4-4-0"><tspan
+         sodipodi:role="line"
+         id="tspan14-8-7-5-8-5-9"
+         x="123.31185"
+         y="89.202461"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;font-family:Nunito;-inkscape-font-specification:'Nunito Bold';stroke-width:0.264583">Red Teaming</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="123.31185"
+       y="111.07008"
+       id="text16-9-8-6-4-4-0-1"><tspan
+         sodipodi:role="line"
+         id="tspan14-8-7-5-8-5-9-6"
+         x="123.31185"
+         y="111.07008"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:Nunito;-inkscape-font-specification:Nunito;stroke-width:0.264583">Burp Suite</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="123.31185"
+       y="118.34609"
+       id="text16-9-8-6-4-4-0-1-9-4"><tspan
+         sodipodi:role="line"
+         id="tspan14-8-7-5-8-5-9-6-1-4"
+         x="123.31185"
+         y="118.34609"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:Nunito;-inkscape-font-specification:Nunito;stroke-width:0.264583">Python</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="123.4369"
+       y="125.58282"
+       id="text16-9-8-6-4-4-0-1-9-4-1"><tspan
+         sodipodi:role="line"
+         id="tspan14-8-7-5-8-5-9-6-1-4-00"
+         x="123.4369"
+         y="125.58282"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:Nunito;-inkscape-font-specification:Nunito;stroke-width:0.264583">Software Engineering</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#0088aa;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="7.0434976"
+       y="169.28337"
+       id="text16-9-0"><tspan
+         sodipodi:role="line"
+         id="tspan14-8-9"
+         x="7.0434976"
+         y="169.28337"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#0088aa;fill-opacity:1;stroke-width:0.264583">Saudi Aramco</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#0088aa;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="92.897354"
+       y="169.15901"
+       id="text16-9-0-0"><tspan
+         sodipodi:role="line"
+         id="tspan14-8-9-7"
+         x="92.897354"
+         y="169.15901"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Nunito;-inkscape-font-specification:'Nunito Italic';fill:#0088aa;stroke-width:0.264583">2017-2021</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="123.56386"
+       y="154.85857"
+       id="text16-9-8-6"><tspan
+         sodipodi:role="line"
+         id="tspan14-8-7-5"
+         x="123.56386"
+         y="154.85857"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:Nunito;-inkscape-font-specification:Nunito;stroke-width:0.264583">Packet Analysis (e.g. Wireshark)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="123.33648"
+       y="147.67537"
+       id="text16-9-8-6-4-4"><tspan
+         sodipodi:role="line"
+         id="tspan14-8-7-5-8-5"
+         x="123.33648"
+         y="147.67537"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;font-family:Nunito;-inkscape-font-specification:'Nunito Bold';stroke-width:0.264583">Reverse Engineering</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="123.4748"
+       y="162.1346"
+       id="text16-9-8-6-4-4-0-1-8"><tspan
+         sodipodi:role="line"
+         id="tspan14-8-7-5-8-5-9-6-0"
+         x="123.4748"
+         y="162.1346"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:Nunito;-inkscape-font-specification:Nunito;stroke-width:0.264583">Static Analysis (e.g. Ghidra)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="123.58091"
+       y="169.41064"
+       id="text16-9-8-6-4-4-0-1-8-3"><tspan
+         sodipodi:role="line"
+         id="tspan14-8-7-5-8-5-9-6-0-6"
+         x="123.58091"
+         y="169.41064"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:Nunito;-inkscape-font-specification:Nunito;stroke-width:0.264583">Debugging (e.g. x64dbg)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="123.4369"
+       y="176.68669"
+       id="text16-9-8-6-4-4-0-1-8-0"><tspan
+         sodipodi:role="line"
+         id="tspan14-8-7-5-8-5-9-6-0-7"
+         x="123.4369"
+         y="176.68669"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:Nunito;-inkscape-font-specification:Nunito;stroke-width:0.264583">Sysinternals (e.g. Procmon)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="123.31184"
+       y="183.93051"
+       id="text16-9-8-6-4-4-0-1-8-2"><tspan
+         sodipodi:role="line"
+         id="tspan14-8-7-5-8-5-9-6-0-3"
+         x="123.31184"
+         y="183.93051"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:Nunito;-inkscape-font-specification:Nunito;stroke-width:0.264583">Hex Editing (e.g. HxD)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="123.31184"
+       y="191.23877"
+       id="text16-9-8-6-4-4-0-1-9-4-1-7"><tspan
+         sodipodi:role="line"
+         id="tspan14-8-7-5-8-5-9-6-1-4-00-3"
+         x="123.31184"
+         y="191.23877"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:Nunito;-inkscape-font-specification:Nunito;stroke-width:0.264583">Electronics </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="123.31185"
+       y="213.06689"
+       id="text16-9-8-6-4-4-0-1-9-4-3"><tspan
+         sodipodi:role="line"
+         id="tspan14-8-7-5-8-5-9-6-1-4-0"
+         x="123.31185"
+         y="213.06689"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:Nunito;-inkscape-font-specification:Nunito;stroke-width:0.264583">Linux (RHEL, Debian)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="123.49944"
+       y="205.79085"
+       id="text16-9-8-6-4-4-0-9"><tspan
+         sodipodi:role="line"
+         x="123.49944"
+         y="205.79085"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;font-family:Nunito;-inkscape-font-specification:'Nunito Bold';stroke-width:0.264583"
+         id="tspan689">Other</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="123.66239"
+       y="220.34294"
+       id="text16-9-8-6-4-4-0-1-9-4-3-59"><tspan
+         sodipodi:role="line"
+         id="tspan14-8-7-5-8-5-9-6-1-4-0-7"
+         x="123.66239"
+         y="220.34294"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:Nunito;-inkscape-font-specification:Nunito;stroke-width:0.264583">Virtualisation (AWS, VMWare)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#0088aa;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="6.9298091"
+       y="94.146477"
+       id="text16-9-0-1"><tspan
+         sodipodi:role="line"
+         id="tspan14-8-9-2"
+         x="6.9298091"
+         y="94.146477"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#0088aa;fill-opacity:1;stroke-width:0.264583">DesertClouds</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#0088aa;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="89.179428"
+       y="94.149651"
+       id="text16-9-0-0-0"><tspan
+         sodipodi:role="line"
+         id="tspan14-8-9-7-8"
+         x="89.179428"
+         y="94.149651"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Nunito;-inkscape-font-specification:'Nunito Italic';fill:#0088aa;stroke-width:0.264583">2021-Present</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="6.9522023"
+       y="89.728203"
+       id="text16-9-00"><tspan
+         sodipodi:role="line"
+         x="6.9522023"
+         y="89.728203"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;font-family:Nunito;-inkscape-font-specification:'Nunito Bold';stroke-width:0.264583"
+         id="tspan871-5">Director of Research Development</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text1249"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Nunito;-inkscape-font-specification:Nunito;white-space:pre;shape-inside:url(#rect1251);fill:#000000;fill-opacity:1;stroke:none;" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="123.31185"
+       y="241.94196"
+       id="text16-9-8-6-4-4-0-1-9-4-3-0"><tspan
+         sodipodi:role="line"
+         id="tspan14-8-7-5-8-5-9-6-1-4-0-4"
+         x="123.31185"
+         y="241.94196"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:Nunito;-inkscape-font-specification:Nunito;stroke-width:0.264583">Mentorship</tspan></text>
+    <g
+       id="g1429"
+       transform="translate(-0.14999641,-5.2916669)"
+       style="fill:#2c89a0;stroke:#000000">
+      <circle
+         style="fill:#000000;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567;stroke-opacity:0.94902"
+         id="path1323"
+         cx="203.72916"
+         cy="100.40937"
+         r="1.4552102" />
+      <circle
+         style="fill:#000000;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567;stroke-opacity:0.94902"
+         id="path1323-2"
+         cx="199.36353"
+         cy="100.40937"
+         r="1.4552102" />
+      <circle
+         style="fill:#000000;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567;stroke-opacity:0.94902"
+         id="path1323-3"
+         cx="194.99791"
+         cy="100.40937"
+         r="1.4552102" />
+      <circle
+         style="fill:#000000;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567;stroke-opacity:0.94902"
+         id="path1323-1"
+         cx="190.63228"
+         cy="100.40937"
+         r="1.4552102" />
+      <circle
+         style="fill:#000000;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567;stroke-opacity:0.94902"
+         id="path1323-2-2"
+         cx="186.26665"
+         cy="100.40937"
+         r="1.4552102" />
+    </g>
+    <g
+       id="g1436"
+       transform="translate(-0.14999641,-5.2916669)"
+       style="fill:#2c89a0;stroke:#000000">
+      <circle
+         style="fill:#000000;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567;stroke-opacity:0.94902"
+         id="path1323-24"
+         cx="203.72916"
+         cy="107.68542"
+         r="1.4552102" />
+      <circle
+         style="fill:#000000;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567;stroke-opacity:0.94902"
+         id="path1323-2-7"
+         cx="199.36353"
+         cy="107.68542"
+         r="1.4552102" />
+      <circle
+         style="fill:#000000;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567;stroke-opacity:0.94902"
+         id="path1323-3-9"
+         cx="194.99791"
+         cy="107.68542"
+         r="1.4552102" />
+      <circle
+         style="fill:#000000;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567;stroke-opacity:0.94902"
+         id="path1323-1-9"
+         cx="190.63228"
+         cy="107.68542"
+         r="1.4552102" />
+      <circle
+         style="fill:#000000;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567;stroke-opacity:0.94902"
+         id="path1323-2-2-7"
+         cx="186.26665"
+         cy="107.68542"
+         r="1.4552102" />
+    </g>
+    <g
+       id="g1422"
+       transform="translate(-0.30000556,-5.2916669)"
+       style="fill:#2c89a0;stroke:#000000">
+      <circle
+         style="fill:none;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567;stroke-opacity:0.94902"
+         id="path1323-20"
+         cx="203.87917"
+         cy="114.96146"
+         r="1.4552102" />
+      <circle
+         style="fill:none;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567;stroke-opacity:0.94902"
+         id="path1323-2-76"
+         cx="199.51353"
+         cy="114.96146"
+         r="1.4552102" />
+      <circle
+         style="fill:#000000;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567;stroke-opacity:0.94902"
+         id="path1323-3-6"
+         cx="195.14792"
+         cy="114.96146"
+         r="1.4552102" />
+      <circle
+         style="fill:#000000;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567;stroke-opacity:0.94902"
+         id="path1323-1-3"
+         cx="190.78229"
+         cy="114.96146"
+         r="1.4552102" />
+      <circle
+         style="fill:#000000;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567;stroke-opacity:0.94902"
+         id="path1323-2-2-9"
+         cx="186.41666"
+         cy="114.96146"
+         r="1.4552102" />
+    </g>
+    <g
+       id="g1422-5"
+       transform="translate(-0.30000556,1.9843739)"
+       style="fill:#2c89a0;stroke:#000000">
+      <circle
+         style="fill:#000000;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567;stroke-opacity:0.94902"
+         id="path1323-20-4"
+         cx="203.87917"
+         cy="114.96146"
+         r="1.4552102" />
+      <circle
+         style="fill:#000000;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567;stroke-opacity:0.94902"
+         id="path1323-2-76-5"
+         cx="199.51353"
+         cy="114.96146"
+         r="1.4552102" />
+      <circle
+         style="fill:#000000;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567;stroke-opacity:0.94902"
+         id="path1323-3-6-7"
+         cx="195.14792"
+         cy="114.96146"
+         r="1.4552102" />
+      <circle
+         style="fill:#000000;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567;stroke-opacity:0.94902"
+         id="path1323-1-3-6"
+         cx="190.78229"
+         cy="114.96146"
+         r="1.4552102" />
+      <circle
+         style="fill:#000000;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567;stroke-opacity:0.94902"
+         id="path1323-2-2-9-7"
+         cx="186.41666"
+         cy="114.96146"
+         r="1.4552102" />
+    </g>
+    <g
+       id="g1422-3"
+       transform="translate(-0.30000556,9.2604126)"
+       style="fill:#2c89a0;stroke:#000000">
+      <circle
+         style="fill:#000000;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567;stroke-opacity:0.94902"
+         id="path1323-20-9"
+         cx="203.87917"
+         cy="114.96146"
+         r="1.4552102" />
+      <circle
+         style="fill:#000000;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567;stroke-opacity:0.94902"
+         id="path1323-2-76-2"
+         cx="199.51353"
+         cy="114.96146"
+         r="1.4552102" />
+      <circle
+         style="fill:#000000;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567;stroke-opacity:0.94902"
+         id="path1323-3-6-5"
+         cx="195.14792"
+         cy="114.96146"
+         r="1.4552102" />
+      <circle
+         style="fill:#000000;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567;stroke-opacity:0.94902"
+         id="path1323-1-3-4"
+         cx="190.78229"
+         cy="114.96146"
+         r="1.4552102" />
+      <circle
+         style="fill:#000000;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567;stroke-opacity:0.94902"
+         id="path1323-2-2-9-0"
+         cx="186.41666"
+         cy="114.96146"
+         r="1.4552102" />
+    </g>
+    <g
+       id="g1429-8"
+       transform="translate(-0.14999641,52.898959)"
+       style="fill:#2c89a0;stroke:#000000">
+      <circle
+         style="fill:#000000;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567;stroke-opacity:0.94902"
+         id="path1323-4"
+         cx="203.72916"
+         cy="100.40937"
+         r="1.4552102" />
+      <circle
+         style="fill:#000000;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567;stroke-opacity:0.94902"
+         id="path1323-2-79"
+         cx="199.36353"
+         cy="100.40937"
+         r="1.4552102" />
+      <circle
+         style="fill:#000000;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567;stroke-opacity:0.94902"
+         id="path1323-3-68"
+         cx="194.99791"
+         cy="100.40937"
+         r="1.4552102" />
+      <circle
+         style="fill:#000000;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567;stroke-opacity:0.94902"
+         id="path1323-1-5"
+         cx="190.63228"
+         cy="100.40937"
+         r="1.4552102" />
+      <circle
+         style="fill:#000000;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567;stroke-opacity:0.94902"
+         id="path1323-2-2-76"
+         cx="186.26665"
+         cy="100.40937"
+         r="1.4552102" />
+    </g>
+    <g
+       id="g1436-0"
+       transform="translate(-0.14999641,52.898959)"
+       style="fill:#2c89a0;stroke:#000000">
+      <circle
+         style="fill:none;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567;stroke-opacity:0.94902"
+         id="path1323-24-8"
+         cx="203.72916"
+         cy="107.68542"
+         r="1.4552102" />
+      <circle
+         style="fill:none;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567;stroke-opacity:0.94902"
+         id="path1323-2-7-6"
+         cx="199.36353"
+         cy="107.68542"
+         r="1.4552102" />
+      <circle
+         style="fill:#000000;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567;stroke-opacity:0.94902"
+         id="path1323-3-9-7"
+         cx="194.99791"
+         cy="107.68542"
+         r="1.4552102" />
+      <circle
+         style="fill:#000000;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567;stroke-opacity:0.94902"
+         id="path1323-1-9-3"
+         cx="190.63228"
+         cy="107.68542"
+         r="1.4552102" />
+      <circle
+         style="fill:#000000;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567;stroke-opacity:0.94902"
+         id="path1323-2-2-7-3"
+         cx="186.26665"
+         cy="107.68542"
+         r="1.4552102" />
+    </g>
+    <g
+       id="g1422-55"
+       transform="translate(-0.30000641,52.898959)"
+       style="fill:#2c89a0;stroke:#000000">
+      <circle
+         style="fill:none;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567;stroke-opacity:0.94902"
+         id="path1323-20-8"
+         cx="203.87917"
+         cy="114.96146"
+         r="1.4552102" />
+      <circle
+         style="fill:none;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567;stroke-opacity:0.94902"
+         id="path1323-2-76-7"
+         cx="199.51353"
+         cy="114.96146"
+         r="1.4552102" />
+      <circle
+         style="fill:#000000;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567;stroke-opacity:0.94902"
+         id="path1323-3-6-54"
+         cx="195.14792"
+         cy="114.96146"
+         r="1.4552102" />
+      <circle
+         style="fill:#000000;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567;stroke-opacity:0.94902"
+         id="path1323-1-3-8"
+         cx="190.78229"
+         cy="114.96146"
+         r="1.4552102" />
+      <circle
+         style="fill:#000000;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567;stroke-opacity:0.94902"
+         id="path1323-2-2-9-2"
+         cx="186.41666"
+         cy="114.96146"
+         r="1.4552102" />
+    </g>
+    <g
+       id="g1422-5-1"
+       transform="translate(-0.30000641,60.175001)"
+       style="fill:#2c89a0;stroke:#000000">
+      <circle
+         style="fill:none;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567;stroke-opacity:0.94902"
+         id="path1323-20-4-1"
+         cx="203.87917"
+         cy="114.96146"
+         r="1.4552102" />
+      <circle
+         style="fill:#000000;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567;stroke-opacity:0.94902"
+         id="path1323-2-76-5-2"
+         cx="199.51353"
+         cy="114.96146"
+         r="1.4552102" />
+      <circle
+         style="fill:#000000;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567;stroke-opacity:0.94902"
+         id="path1323-3-6-7-1"
+         cx="195.14792"
+         cy="114.96146"
+         r="1.4552102" />
+      <circle
+         style="fill:#000000;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567;stroke-opacity:0.94902"
+         id="path1323-1-3-6-9"
+         cx="190.78229"
+         cy="114.96146"
+         r="1.4552102" />
+      <circle
+         style="fill:#000000;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567;stroke-opacity:0.94902"
+         id="path1323-2-2-9-7-1"
+         cx="186.41666"
+         cy="114.96146"
+         r="1.4552102" />
+    </g>
+    <g
+       id="g1422-3-0"
+       transform="translate(-0.30000641,67.451042)"
+       style="fill:#2c89a0;stroke:#000000">
+      <circle
+         style="fill:none;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567;stroke-opacity:0.94902"
+         id="path1323-20-9-9"
+         cx="203.87917"
+         cy="114.96146"
+         r="1.4552102" />
+      <circle
+         style="fill:#000000;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567;stroke-opacity:0.94902"
+         id="path1323-2-76-2-6"
+         cx="199.51353"
+         cy="114.96146"
+         r="1.4552102" />
+      <circle
+         style="fill:#000000;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567;stroke-opacity:0.94902"
+         id="path1323-3-6-5-8"
+         cx="195.14792"
+         cy="114.96146"
+         r="1.4552102" />
+      <circle
+         style="fill:#000000;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567;stroke-opacity:0.94902"
+         id="path1323-1-3-4-4"
+         cx="190.78229"
+         cy="114.96146"
+         r="1.4552102" />
+      <circle
+         style="fill:#000000;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567;stroke-opacity:0.94902"
+         id="path1323-2-2-9-0-6"
+         cx="186.41666"
+         cy="114.96146"
+         r="1.4552102" />
+    </g>
+    <g
+       id="g1422-3-0-7"
+       transform="translate(-0.14999887,74.877082)"
+       style="fill:#2c89a0;stroke:#000000">
+      <circle
+         style="fill:none;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567;stroke-opacity:0.94902"
+         id="path1323-20-9-9-3"
+         cx="203.87917"
+         cy="114.96146"
+         r="1.4552102" />
+      <circle
+         style="fill:#000000;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567;stroke-opacity:0.94902"
+         id="path1323-2-76-2-6-8"
+         cx="199.51353"
+         cy="114.96146"
+         r="1.4552102" />
+      <circle
+         style="fill:#000000;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567;stroke-opacity:0.94902"
+         id="path1323-3-6-5-8-8"
+         cx="195.14792"
+         cy="114.96146"
+         r="1.4552102" />
+      <circle
+         style="fill:#000000;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567;stroke-opacity:0.94902"
+         id="path1323-1-3-4-4-3"
+         cx="190.78229"
+         cy="114.96146"
+         r="1.4552102" />
+      <circle
+         style="fill:#000000;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567;stroke-opacity:0.94902"
+         id="path1323-2-2-9-0-6-2"
+         cx="186.41666"
+         cy="114.96146"
+         r="1.4552102" />
+    </g>
+    <g
+       id="g1422-3-0-7-4"
+       transform="translate(-0.30000556,96.555201)"
+       style="fill:#2c89a0;stroke:#000000">
+      <circle
+         style="fill:#000000;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567;stroke-opacity:0.94902"
+         id="path1323-20-9-9-3-6"
+         cx="203.87917"
+         cy="114.96146"
+         r="1.4552102" />
+      <circle
+         style="fill:#000000;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567;stroke-opacity:0.94902"
+         id="path1323-2-76-2-6-8-8"
+         cx="199.51353"
+         cy="114.96146"
+         r="1.4552102" />
+      <circle
+         style="fill:#000000;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567;stroke-opacity:0.94902"
+         id="path1323-3-6-5-8-8-3"
+         cx="195.14792"
+         cy="114.96146"
+         r="1.4552102" />
+      <circle
+         style="fill:#000000;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567;stroke-opacity:0.94902"
+         id="path1323-1-3-4-4-3-2"
+         cx="190.78229"
+         cy="114.96146"
+         r="1.4552102" />
+      <circle
+         style="fill:#000000;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567;stroke-opacity:0.94902"
+         id="path1323-2-2-9-0-6-2-1"
+         cx="186.41666"
+         cy="114.96146"
+         r="1.4552102" />
+    </g>
+    <g
+       id="g1422-3-0-7-6"
+       transform="translate(-0.30000556,103.83126)"
+       style="fill:#2c89a0;stroke:#000000">
+      <circle
+         style="fill:none;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567;stroke-opacity:0.94902"
+         id="path1323-20-9-9-3-2"
+         cx="203.87917"
+         cy="114.96146"
+         r="1.4552102" />
+      <circle
+         style="fill:none;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567;stroke-opacity:0.94902"
+         id="path1323-2-76-2-6-8-3"
+         cx="199.51353"
+         cy="114.96146"
+         r="1.4552102" />
+      <circle
+         style="fill:#000000;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567;stroke-opacity:0.94902"
+         id="path1323-3-6-5-8-8-4"
+         cx="195.14792"
+         cy="114.96146"
+         r="1.4552102" />
+      <circle
+         style="fill:#000000;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567;stroke-opacity:0.94902"
+         id="path1323-1-3-4-4-3-0"
+         cx="190.78229"
+         cy="114.96146"
+         r="1.4552102" />
+      <circle
+         style="fill:#000000;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567;stroke-opacity:0.94902"
+         id="path1323-2-2-9-0-6-2-5"
+         cx="186.41666"
+         cy="114.96146"
+         r="1.4552102" />
+    </g>
+    <g
+       id="g1422-3-0-7-62"
+       transform="translate(-0.30000556,125.43026)"
+       style="fill:#2c89a0;stroke:#000000">
+      <circle
+         style="fill:#000000;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567;stroke-opacity:0.94902"
+         id="path1323-20-9-9-3-4"
+         cx="203.87917"
+         cy="114.96146"
+         r="1.4552102" />
+      <circle
+         style="fill:#000000;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567;stroke-opacity:0.94902"
+         id="path1323-2-76-2-6-8-7"
+         cx="199.51353"
+         cy="114.96146"
+         r="1.4552102" />
+      <circle
+         style="fill:#000000;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567;stroke-opacity:0.94902"
+         id="path1323-3-6-5-8-8-49"
+         cx="195.14792"
+         cy="114.96146"
+         r="1.4552102" />
+      <circle
+         style="fill:#000000;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567;stroke-opacity:0.94902"
+         id="path1323-1-3-4-4-3-6"
+         cx="190.78229"
+         cy="114.96146"
+         r="1.4552102" />
+      <circle
+         style="fill:#000000;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567;stroke-opacity:0.94902"
+         id="path1323-2-2-9-0-6-2-8"
+         cx="186.41666"
+         cy="114.96146"
+         r="1.4552102" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="123.35725"
+       y="281.91864"
+       id="text16-9-00-1-4"><tspan
+         sodipodi:role="line"
+         x="123.35725"
+         y="281.91864"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Nunito;-inkscape-font-specification:Nunito;stroke-width:0.264583"
+         id="tspan1814">Bsc Computer Science with Mathematics,</tspan><tspan
+         sodipodi:role="line"
+         x="123.35725"
+         y="286.32837"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Nunito;-inkscape-font-specification:Nunito;stroke-width:0.264583"
+         id="tspan1890">2:1 honours.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="123.24951"
+       y="273.28583"
+       id="text16-9-0-3"><tspan
+         sodipodi:role="line"
+         id="tspan14-8-9-27"
+         x="123.24951"
+         y="273.28583"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Nunito;-inkscape-font-specification:Nunito;stroke-width:0.264583">University of Leeds</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="123.41249"
+       y="277.51917"
+       id="text16-9-0-0-8"><tspan
+         sodipodi:role="line"
+         id="tspan14-8-9-7-6"
+         x="123.41249"
+         y="277.51917"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:Nunito;-inkscape-font-specification:'Nunito Italic';stroke-width:0.264583">2017-2021</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="6.9902921"
+       y="111.38783"
+       id="text346-0"><tspan
+         sodipodi:role="line"
+         x="6.9902921"
+         y="111.38783"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Nunito;-inkscape-font-specification:Nunito;stroke-width:0.264583"
+         id="tspan373">• Developed core technical documentation: architecture diagrams </tspan><tspan
+         sodipodi:role="line"
+         x="6.9902921"
+         y="115.79755"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Nunito;-inkscape-font-specification:Nunito;stroke-width:0.264583"
+         id="tspan1434">(from layer 1 to layer 7), operation guides, and reference guides.</tspan><tspan
+         sodipodi:role="line"
+         x="6.9902921"
+         y="120.20726"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Nunito;-inkscape-font-specification:Nunito;stroke-width:0.264583"
+         id="tspan1432" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="7.2760415"
+       y="121.8406"
+       id="text346-0-3"><tspan
+         sodipodi:role="line"
+         x="7.2760415"
+         y="121.8406"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Nunito;-inkscape-font-specification:Nunito;stroke-width:0.264583"
+         id="tspan1092">• Reduced the cost of the classroom-as-a-service by more than a </tspan><tspan
+         sodipodi:role="line"
+         x="7.2760415"
+         y="126.25031"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Nunito;-inkscape-font-specification:Nunito;stroke-width:0.264583"
+         id="tspan1414">half by developing an in-house classroom management solution. </tspan><tspan
+         sodipodi:role="line"
+         x="7.2760415"
+         y="130.66002"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Nunito;-inkscape-font-specification:Nunito;stroke-width:0.264583"
+         id="tspan1426">This software uses OAuth tokens, Microsoft graph API, and </tspan><tspan
+         sodipodi:role="line"
+         x="7.2760415"
+         y="135.06973"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Nunito;-inkscape-font-specification:Nunito;stroke-width:0.264583"
+         id="tspan1416">active directory integration.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="6.1242142"
+       y="43.561554"
+       id="text1084"><tspan
+         sodipodi:role="line"
+         x="6.1242142"
+         y="43.561554"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Nunito;-inkscape-font-specification:'Nunito Italic';stroke-width:0.264583"
+         id="tspan1745">Cyber security professional with a strong background in software engineering, data networking, and unified communications. </tspan><tspan
+         sodipodi:role="line"
+         x="6.1242142"
+         y="48.036766"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Nunito;-inkscape-font-specification:'Nunito Italic';stroke-width:0.264583"
+         id="tspan1821">Authored more than 15 specialized tools on the job. Privately incident handled and resolved a DDoS attack that crippled a </tspan><tspan
+         sodipodi:role="line"
+         x="6.1242142"
+         y="52.511978"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Nunito;-inkscape-font-specification:'Nunito Italic';stroke-width:0.264583"
+         id="tspan295">friend's business where adversaries demanded a ransom. Privately engaged in more than 11 cyber security capture </tspan><tspan
+         sodipodi:role="line"
+         x="6.1242142"
+         y="56.98719"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Nunito;-inkscape-font-specification:'Nunito Italic';stroke-width:0.264583"
+         id="tspan1833">the flag (CTF) events, including the Sans Mini NetWars, Hack-A-Sat, and top 400 scorers to qualify for the Sans Global </tspan><tspan
+         sodipodi:role="line"
+         x="6.1242142"
+         y="61.462402"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Nunito;-inkscape-font-specification:'Nunito Italic';stroke-width:0.264583"
+         id="tspan1823">Cyber Range. Seeking an opportunity to specialize in the field of security.</tspan><tspan
+         sodipodi:role="line"
+         x="6.1242142"
+         y="65.937614"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Nunito;-inkscape-font-specification:'Nunito Italic';stroke-width:0.264583"
+         id="tspan1825" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="123.34734"
+       y="249.23802"
+       id="text16-9-8-6-4-4-0-1-9-4-3-0-2"><tspan
+         sodipodi:role="line"
+         id="tspan14-8-7-5-8-5-9-6-1-4-0-4-6"
+         x="123.34734"
+         y="249.23802"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:Nunito;-inkscape-font-specification:Nunito;stroke-width:0.264583">Technical Writing</tspan></text>
+    <g
+       id="g1422-3-06"
+       transform="translate(-0.30000556,16.386452)"
+       style="fill:#2c89a0;stroke:#000000">
+      <circle
+         style="fill:none;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567;stroke-opacity:0.94902"
+         id="path1323-20-9-0"
+         cx="203.87917"
+         cy="114.96146"
+         r="1.4552102" />
+      <circle
+         style="fill:none;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567;stroke-opacity:0.94902"
+         id="path1323-2-76-2-7"
+         cx="199.51353"
+         cy="114.96146"
+         r="1.4552102" />
+      <circle
+         style="fill:#000000;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567;stroke-opacity:0.94902"
+         id="path1323-3-6-5-0"
+         cx="195.14792"
+         cy="114.96146"
+         r="1.4552102" />
+      <circle
+         style="fill:#000000;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567;stroke-opacity:0.94902"
+         id="path1323-1-3-4-7"
+         cx="190.78229"
+         cy="114.96146"
+         r="1.4552102" />
+      <circle
+         style="fill:#000000;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567;stroke-opacity:0.94902"
+         id="path1323-2-2-9-0-8"
+         cx="186.41666"
+         cy="114.96146"
+         r="1.4552102" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="123.86041"
+       y="132.862"
+       id="text16-9-8-8"><tspan
+         sodipodi:role="line"
+         id="tspan14-8-7-9"
+         x="123.86041"
+         y="132.862"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:Nunito;-inkscape-font-specification:Nunito;stroke-width:0.264583">C2 Frameworks (Covenant)</tspan></text>
+    <g
+       id="g1422-3-0-7-62-3"
+       transform="translate(-0.30000556,132.57396)"
+       style="fill:#2c89a0;stroke:#000000">
+      <circle
+         style="fill:#000000;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567;stroke-opacity:0.94902"
+         id="path1323-20-9-9-3-4-5"
+         cx="203.87917"
+         cy="114.96146"
+         r="1.4552102" />
+      <circle
+         style="fill:#000000;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567;stroke-opacity:0.94902"
+         id="path1323-2-76-2-6-8-7-9"
+         cx="199.51353"
+         cy="114.96146"
+         r="1.4552102" />
+      <circle
+         style="fill:#000000;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567;stroke-opacity:0.94902"
+         id="path1323-3-6-5-8-8-49-3"
+         cx="195.14792"
+         cy="114.96146"
+         r="1.4552102" />
+      <circle
+         style="fill:#000000;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567;stroke-opacity:0.94902"
+         id="path1323-1-3-4-4-3-6-7"
+         cx="190.78229"
+         cy="114.96146"
+         r="1.4552102" />
+      <circle
+         style="fill:#000000;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567;stroke-opacity:0.94902"
+         id="path1323-2-2-9-0-6-2-8-3"
+         cx="186.41666"
+         cy="114.96146"
+         r="1.4552102" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.1;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="7.0079308"
+       y="100.88916"
+       id="text346-05"><tspan
+         sodipodi:role="line"
+         x="7.0079308"
+         y="100.88916"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Nunito;-inkscape-font-specification:Nunito;stroke-width:0.264583"
+         id="tspan1362">• Validated security hardening of an in-house web application </tspan><tspan
+         sodipodi:role="line"
+         x="7.0079308"
+         y="104.76971"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Nunito;-inkscape-font-specification:Nunito;stroke-width:0.264583"
+         id="tspan1410">by performing a webapp penetration test.</tspan><tspan
+         sodipodi:role="line"
+         x="7.0079308"
+         y="108.65025"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Nunito;-inkscape-font-specification:Nunito;stroke-width:0.264583"
+         id="tspan1408" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="123.31186"
+       y="227.25751"
+       id="text16-9-8-6-4-4-0-1-9-4-3-0-22"><tspan
+         sodipodi:role="line"
+         id="tspan14-8-7-5-8-5-9-6-1-4-0-4-1"
+         x="123.31186"
+         y="227.25751"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:Nunito;-inkscape-font-specification:Nunito;stroke-width:0.264583">Data Networking</tspan></text>
+    <g
+       id="g1422-3-0-7-62-8"
+       transform="translate(-0.30000556,110.74583)"
+       style="fill:#2c89a0;stroke:#000000">
+      <circle
+         style="fill:#000000;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567;stroke-opacity:0.94902"
+         id="path1323-20-9-9-3-4-4"
+         cx="203.87917"
+         cy="114.96146"
+         r="1.4552102" />
+      <circle
+         style="fill:#000000;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567;stroke-opacity:0.94902"
+         id="path1323-2-76-2-6-8-7-1"
+         cx="199.51353"
+         cy="114.96146"
+         r="1.4552102" />
+      <circle
+         style="fill:#000000;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567;stroke-opacity:0.94902"
+         id="path1323-3-6-5-8-8-49-8"
+         cx="195.14792"
+         cy="114.96146"
+         r="1.4552102" />
+      <circle
+         style="fill:#000000;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567;stroke-opacity:0.94902"
+         id="path1323-1-3-4-4-3-6-9"
+         cx="190.78229"
+         cy="114.96146"
+         r="1.4552102" />
+      <circle
+         style="fill:#000000;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567;stroke-opacity:0.94902"
+         id="path1323-2-2-9-0-6-2-8-8"
+         cx="186.41666"
+         cy="114.96146"
+         r="1.4552102" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1;font-family:Nunito;-inkscape-font-specification:Nunito;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="6.7889915"
+       y="250.52094"
+       id="text1050-1"><tspan
+         sodipodi:role="line"
+         x="6.7889915"
+         y="250.52094"
+         id="tspan1499-2"
+         style="stroke-width:0.264583">• Delivered self-initiated recorded training videos, written </tspan><tspan
+         sodipodi:role="line"
+         x="6.7889915"
+         y="254.04871"
+         style="stroke-width:0.264583"
+         id="tspan1870">documents, and live training sessions on various topics.</tspan><tspan
+         sodipodi:role="line"
+         x="6.7889915"
+         y="257.57648"
+         style="stroke-width:0.264583"
+         id="tspan1868" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="123.61186"
+       y="234.53357"
+       id="text16-9-8-6-4-4-0-1-9-4-3-0-1"><tspan
+         sodipodi:role="line"
+         id="tspan14-8-7-5-8-5-9-6-1-4-0-4-0"
+         x="123.61186"
+         y="234.53357"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:Nunito;-inkscape-font-specification:Nunito;stroke-width:0.264583">Advanced Mathematics</tspan></text>
+    <g
+       id="g1422-3-0-7-62-1"
+       transform="translate(7.8207112e-6,118.02187)"
+       style="fill:#2c89a0;stroke:#000000">
+      <circle
+         style="fill:none;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567;stroke-opacity:0.94902"
+         id="path1323-20-9-9-3-4-0"
+         cx="203.87917"
+         cy="114.96146"
+         r="1.4552102" />
+      <circle
+         style="fill:#000000;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567;stroke-opacity:0.94902"
+         id="path1323-2-76-2-6-8-7-5"
+         cx="199.51353"
+         cy="114.96146"
+         r="1.4552102" />
+      <circle
+         style="fill:#000000;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567;stroke-opacity:0.94902"
+         id="path1323-3-6-5-8-8-49-5"
+         cx="195.14792"
+         cy="114.96146"
+         r="1.4552102" />
+      <circle
+         style="fill:#000000;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567;stroke-opacity:0.94902"
+         id="path1323-1-3-4-4-3-6-3"
+         cx="190.78229"
+         cy="114.96146"
+         r="1.4552102" />
+      <circle
+         style="fill:#000000;fill-opacity:0.94902;stroke:#000000;stroke-width:0.3;stroke-dashoffset:2.64567;stroke-opacity:0.94902"
+         id="path1323-2-2-9-0-6-2-8-1"
+         cx="186.41666"
+         cy="114.96146"
+         r="1.4552102" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1;font-family:Nunito;-inkscape-font-specification:Nunito;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="7.0366573"
+       y="226.4836"
+       id="text905-4"><tspan
+         sodipodi:role="line"
+         id="tspan960-5"
+         x="7.0366573"
+         y="226.4836"
+         style="stroke-width:0.264583">• Coded an automated security baseline compliance checker for </tspan><tspan
+         sodipodi:role="line"
+         x="7.0366573"
+         y="230.01137"
+         style="stroke-width:0.264583"
+         id="tspan313">20 Linux/Solaris servers.</tspan><tspan
+         sodipodi:role="line"
+         x="7.0366573"
+         y="233.53914"
+         style="stroke-width:0.264583"
+         id="tspan315" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:1.2;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="111.05656"
+       y="149.06935"
+       id="text16-9-0-02-1"><tspan
+         sodipodi:role="line"
+         x="111.05656"
+         y="149.06935"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:Nunito;-inkscape-font-specification:Nunito;text-align:end;text-anchor:end;stroke-width:0.264583"
+         id="tspan424-6">6 months</tspan><tspan
+         sodipodi:role="line"
+         x="111.05656"
+         y="152.87935"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;font-family:Nunito;-inkscape-font-specification:Nunito;text-align:end;text-anchor:end;stroke-width:0.264583"
+         id="tspan426-2">4 months</tspan><tspan
+         sodipodi:role="line"
+         x="111.05656"
+         y="156.68935"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:Nunito;-inkscape-font-specification:Nunito;text-align:end;text-anchor:end;stroke-width:0.264583"
+         id="tspan428-6">6 months</tspan><tspan
+         sodipodi:role="line"
+         x="111.05656"
+         y="160.49934"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:Nunito;-inkscape-font-specification:Nunito;text-align:end;text-anchor:end;stroke-width:0.264583"
+         id="tspan430-4">6 months</tspan><tspan
+         sodipodi:role="line"
+         x="111.05656"
+         y="164.30936"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:Nunito;-inkscape-font-specification:Nunito;text-align:end;text-anchor:end;stroke-width:0.264583"
+         id="tspan432-9">18 months</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:0;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="7.0279756"
+       y="144.96843"
+       id="text16-9-0-02-3"><tspan
+         sodipodi:role="line"
+         x="7.0279756"
+         y="144.96843"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Nunito;-inkscape-font-specification:Nunito;stroke-width:0.264583"
+         id="tspan422-8" /><tspan
+         sodipodi:role="line"
+         x="7.0279756"
+         y="149.19865"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1;font-family:Nunito;-inkscape-font-specification:Nunito;stroke-width:0.264583"
+         id="tspan424-2">Cisco Collaboration Engineer</tspan><tspan
+         sodipodi:role="line"
+         x="7.0279756"
+         y="153.07922"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;line-height:1;font-family:Nunito;-inkscape-font-specification:Nunito;stroke-width:0.264583"
+         id="tspan426-5">Cyber Security Analyst in Red Team</tspan><tspan
+         sodipodi:role="line"
+         x="7.0279756"
+         y="156.95978"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1;font-family:Nunito;-inkscape-font-specification:Nunito;stroke-width:0.264583"
+         id="tspan428-9">Network System Support Engineer</tspan><tspan
+         sodipodi:role="line"
+         x="7.0279756"
+         y="160.84033"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1;font-family:Nunito;-inkscape-font-specification:Nunito;stroke-width:0.264583"
+         id="tspan430-0">Data Network Engineer</tspan><tspan
+         sodipodi:role="line"
+         x="7.0279756"
+         y="164.7209"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1;font-family:Nunito;-inkscape-font-specification:Nunito;stroke-width:0.264583"
+         id="tspan432-91">Unified Communication Engineer</tspan></text>
+  </g>
+</svg>

@@ -11,9 +11,13 @@
     bin/                            -
         start                       Startup script to launch locally.
 
+    index.md                        Main homepage.
+    translations.md                 Translated articles.
+    sysadmin.md                     Sysadmin articles.
+
     _layouts/
         base.html                   Common HTML structure shared by other layouts.
-        home.html                   Main homepage.
+        navbar.html                 Layout that contains a navbar header/footer.
         translation.html            Layout for arabic/english posts (bidi supported).
         blogpost.html               Layout for english posts.
 

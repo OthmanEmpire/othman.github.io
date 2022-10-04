@@ -1,0 +1,20 @@
+---
+layout: base
+---
+
+<header>
+    {% if site.theme_config.show_navbar == true %}
+        {% include list_horizontal.html collection=site.navbar_entries %}
+        <div class="dashed"></div>
+    {% endif %}
+</header>
+
+{{ content }}
+
+<!-- FOOTER -->
+{% if site.theme_config.show_footer == true %}
+    <footer>
+        <div class="dashed"></div>
+        {% include list_horizontal.html collection=site.footer_entries %}
+    </footer>
+{% endif %}
