@@ -13,8 +13,8 @@ title: Portfolio
   <img align="middle" width=200 src="assets/img/main_1.png">
 </p>
 
-URL: <a href="https://github.com/othmanalikhan/project_vote">https://github.com/othmanalikhan/project_vote</a>
-Completion Date: from 2018 October to 2018 December
+* URL: <a href="https://github.com/othmanalikhan/project_vote">https://github.com/othmanalikhan/project_vote</a>
+* Completion Date: from 2018 October to 2018 December
 
 Project Vote is a web application written with Django that was used as the
 realtime Q&A tool for a company wide event named "Town Hall". This event took
@@ -34,8 +34,8 @@ Features section below for an overview.
 
 <img align="middle" width="600px" src="assets/img/animation.gif">
 
-URL: <a href="https://github.com/othmanalikhan/project_captcha">https://github.com/othmanalikhan/project_captcha</a>
-Completion Date: from 2019 January to 2019 May
+* URL: <a href="https://github.com/othmanalikhan/project_captcha">https://github.com/othmanalikhan/project_captcha</a>
+* Completion Date: from 2019 January to 2019 May
 
 The objective of project captcha is three-fold: solving simple captchas that
 are generated from a real system (albeit ancient), learning more about neural
