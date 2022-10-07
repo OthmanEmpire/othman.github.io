@@ -1,17 +1,14 @@
 ---
 layout: navbar
-title: Othman Alikhan's Homepage
+title: Othman's Homepage
 ---
 
-## Othman Alikhan (Cyber Security Professional)
+## Othman Alikhan's Homepage
 
-Afraid attackers could compromise your web application? Don't worry, get your webapp tested!
+Welcome to my homepage! 
 
+Below are quick links to navigate around this site.
 
-<ul class="horizontal-list" style="margin-left:230px">
-    <li class="card" style="width:100px">
-        <a href="/contact">
-            <span class="header">Get Started</span>
-        </a>
-    </li>
-</ul>
+* [**Portfolio**](/portfolio): Showcase of my cyber security work.
+* [**Articles**](/articles): Technical IT articles I've written.
+* [**About**](/about): A brief background of me.

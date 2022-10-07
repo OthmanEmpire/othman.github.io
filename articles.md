@@ -1,6 +1,6 @@
 ---
 layout: navbar
-title: Articles
+title: Othman's Articles
 ---
 
 ## Sysadmin
@@ -29,12 +29,9 @@ My translations of technical IT articles from English to Arabic.
 </ul>
 
 
-
 ## All Articles
 <ul class="horizontal-list">
 {% for post in site.posts %}
-    {% if post.layout != "translation" %}
-        {% include post.html %}
-    {% endif %}
+    {% include post.html %}
 {% endfor %}
 </ul>
