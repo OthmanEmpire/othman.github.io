@@ -20,14 +20,11 @@ title: Othman's Portfolio
 
 ## Blue Team Experience
 
-* Resolved a persistent malicious DDoS attack on friend's server, restoring business operations.
-* Investigated email compromise forensics.
-* 
+* Resolved a persistent DDoS attack on a friend's server, restoring business operations.
+* Ran live ransomware samples on production servers to gauge security defenses.
 
 
 ## Other Cyber Security Experience
 
 * Developed a firewall parser/analyser based on algebriac factorisation and graph theory.
-Highlighting more than 100 unnecessary Firewall ACLs
-
-* Automated the security baseline for 20 Linux/Solaris servers by coding a script.
+* Coded a script to automate security baseline validation of 20 Linux/Solaris servers.
