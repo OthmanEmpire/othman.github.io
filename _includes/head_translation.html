@@ -16,6 +16,10 @@
     <span>المقال الأصلي: <a href={{ page.original-article }}>{{ page.original-article }}</a></span> <br>
     {% endif %}
 
+    {% if page.original-date%}
+    <span>تاريخ النشر الأصلي: {{ page.original-date }}</span> <br>
+    {% endif %}
+
     {% if page.tags.size > 0 %}
         <span>العلامات: {{ page.tags | join ", " }}<span> <br>
     {% endif %}

@@ -3,9 +3,10 @@ layout: translation
 author: Othman Alikhan
 published: true
 lang: ar
-title-ar: كيف تشغل خادم بريد إلكتروني مع Mail-in-a-box على Ubuntu 14.04
+title-ar: كيفية تشغيل خادم بريد إلكتروني مع Mail-in-a-box على Ubuntu 14.04
 title-en: How To Run Your Own Mail Server with Mail-in-a-Box on Ubuntu 14.04
 original-author: finid
+original-date: 2015-05-15
 original-article: >-
   https://www.digitalocean.com/community/tutorials/how-to-run-your-own-mail-server-with-mail-in-a-box-on-ubuntu-14-04
 category: translation

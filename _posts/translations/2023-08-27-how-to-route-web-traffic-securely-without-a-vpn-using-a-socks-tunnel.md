@@ -6,6 +6,7 @@ lang: ar
 title-ar: كيفية توجه حركة مرور الويب بشكل آمن بدون VPN باستخداك تفق SOCKS
 title-en: How To Route Web Traffic Securely Without a VPN Using a SOCKS Tunnel
 original-author: Michael Holley
+original-date: 2020-10-26
 original-article: >-
   https://www.digitalocean.com/community/tutorials/how-to-route-web-traffic-securely-without-a-vpn-using-a-socks-tunnel
 category: translation

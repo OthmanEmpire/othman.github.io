@@ -6,6 +6,7 @@ lang: ar
 title-ar: كيفية حماية SSH باستخدام Fail2Ban على Ubuntu 22.04
 title-en: How to Protect SSH with Fail2Ban on Ubuntu 22.04
 original-author: Alex Garnett
+original-date: 2022-06-04
 original-article: >-
   https://www.digitalocean.com/community/tutorials/how-to-protect-ssh-with-fail2ban-on-ubuntu-22-04
 category: translation
