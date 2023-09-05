@@ -13,7 +13,7 @@
     {% endif %}
 
     {% if page.original-article %}
-        <span>المقال الأصلي: {{ page.original-article }}</span> <br>
+    <span>المقال الأصلي: <a href={{ page.original-article }}>{{ page.original-article }}</a></span> <br>
     {% endif %}
 
     {% if page.tags.size > 0 %}
